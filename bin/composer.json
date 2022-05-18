@@ -1,0 +1,11 @@
+{
+    "name": "dam1r89/cli-app",
+    "authors": [
+        {
+            "name": "Damir Miladinov",
+            "email": "damir89@gmail.com"
+        }
+    ],
+    "require": {},
+ "bin": ["bin/main"]
+}

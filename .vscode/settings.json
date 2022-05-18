@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f3786c6b-8dca-417d-af3f-23929e8b4129/resourceGroups/Zaheer/providers/Microsoft.Web/sites/ariqtpaytm",
+    "appService.deploySubpath": "."
+}
